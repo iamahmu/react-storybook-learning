@@ -1,0 +1,17 @@
+.button {
+  border-radius: 100px;
+  padding: 10px 15px;
+  cursor: pointer;
+  color: aliceblue;
+}
+
+.primary {
+  background-color: blueviolet;
+}
+.secondary {
+  background-color: #eee;
+  color: black;
+}
+.success {
+  background-color: lightseagreen;
+}
