@@ -6,4 +6,6 @@ export default {
   Component: Btn,
 };
 
-export const primary = () => <Btn variant="primary">Primary</Btn>;
+export const Primary = () => <Btn variant="primary">Primary</Btn>;
+
+export const Secondary = () => <Btn variant="secondary">Secondary</Btn>;
